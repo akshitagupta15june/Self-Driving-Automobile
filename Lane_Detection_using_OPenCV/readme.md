@@ -65,7 +65,7 @@ extended to identifying positions of shapes like circles and ellipses. In automa
 
 Input Image                               Finding lines using Hough Transform
 
-![inputhou](inputhou.png)                  ![outputhou](outputhou.png)     
+![inputhou](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/inputhou.png)                  ![outputhou](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/outputhou.png)     
 
 The simplest case of Hough transform is finding straight lines that are hidden in large amounts of image data. For
 detecting lines in images, the image is first converted into binary image using some form of thresholding and then the
@@ -86,7 +86,7 @@ and may therefore filter out information that may be regarded as less relevant, 
 properties of an image. If the edge detection step is successful, the subsequent task of interpreting the information contents in the original image may therefore be substantially simplified. However, it is not always possible to obtain such ideal edges from real life images of moderate complexity.
 Edge detection using Canny Edge detection algorithm
 
-![cannywithout](cannywithout.png) ![cannywith](cannywith.png) 
+![cannywithout](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/cannywithout.png) ![cannywith](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/cannywith.png) 
 
 The Canny edge detector is an edge detection algorithm that uses a multiple stage algorithm so as to detect edges in
 images. Its aim is to discover the optimal edge detection. In this definition, an optimal edge detector includes the following things
@@ -108,7 +108,7 @@ As it is seen in figures below, the output image is almost similar to the input 
 
 Filtered image using Bilateral Filter
 
-![withoutbi](withoutbi.png)  ![withbi](withbi.png) 
+![withoutbi](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/withoutbi.png)  ![withbi](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/withbi.png) 
 
 An assistive navigation system has been developed for the blind by employing geometric figures
 like straight line, parabola, or hyperbola. By combining color and local intensity information, this method detected correctly pedestrian marked lanes in different illumination and weather conditions (sunny, cloudy, strong shadows, times of day).
