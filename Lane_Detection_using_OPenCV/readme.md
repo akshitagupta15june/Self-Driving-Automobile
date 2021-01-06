@@ -50,16 +50,7 @@ To install using anaconda, type- “conda install -c conda-forge opencv”, or t
 “pip install opencv-python” into your command line 
 
 # Flowchart
-![flow](flow.png)
-
-
-Road scene image
-
-![lanewithout](lanewithout.png)
-
-Lane detection
-
-![lanewith](lanewith.png)
+![flow](https://github.com/akshitagupta15june/Self-Driving-Automobile/blob/main/Lane_Detection_using_OPenCV/Images/flow.png)
 
 
 To detect road markings and road boundaries various methodologies are used like Hough Transform, Canny edge
